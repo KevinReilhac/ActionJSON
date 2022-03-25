@@ -12,11 +12,11 @@
     "email": "kevin.reilhac@gmail.com",
     "url": "https://www.unity3d.com"
   },
-  "dependencies": {
-    "nuget.newtonsoft-json": "2.0.0"
-  },
   "samples": [
     {}
   ],
-  "hideInEditor": false
+  "hideInEditor": false,
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "2.0.0"
+  }
 }
