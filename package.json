@@ -1,6 +1,6 @@
 {
   "name": "com.hilo.actionjson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "ActionJSON",
   "description": "Simple JsonAction handle",
   "documentationUrl": "https://example.com/",
@@ -8,15 +8,15 @@
   "licensesUrl": "https://example.com/licensing.html",
   "keywords": [],
   "author": {
-    "name": "Reilhac Kévin",
+    "name": "Reilhac K\u00e9vin",
     "email": "kevin.reilhac@gmail.com",
     "url": "https://www.unity3d.com"
   },
   "dependencies": {
+    "nuget.newsoft-json": ""
   },
   "samples": [
-    {
-    }
+    {}
   ],
   "hideInEditor": false
 }
