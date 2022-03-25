@@ -1,0 +1,22 @@
+{
+  "name": "com.hilo.actionjson",
+  "version": "1.0.0",
+  "displayName": "ActionJSON",
+  "description": "Simple JsonAction handle",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [],
+  "author": {
+    "name": "Reilhac Kévin",
+    "email": "kevin.reilhac@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "dependencies": {
+  },
+  "samples": [
+    {
+    }
+  ],
+  "hideInEditor": false
+}
