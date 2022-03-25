@@ -13,7 +13,7 @@
     "url": "https://www.unity3d.com"
   },
   "dependencies": {
-    "nuget.newsoft-json": "2.0.0"
+    "nuget.newtonsoft-json": "2.0.0"
   },
   "samples": [
     {}
